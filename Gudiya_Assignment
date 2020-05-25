@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>
+	heloo
+	</title>
+	<style type="text/css">
+		h1{
+			color:red;
+		}
+	.chicken {
+		width: 300px;
+		float: left;
+		padding: 15px;
+		margin: 10px;
+		color: black;
+		border: 2px solid black;
+		
+	
+	}
+
+		.beef{
+		width: 300px;
+		float: left;
+		padding: 15px;
+		margin: 10px;
+		color: black;
+		border: 2px solid black;
+		
+	
+	}
+
+		.sushi {
+		width: 300px;
+		float: left;
+		padding: 15px;
+		margin: 10px;
+		color: black;
+		border: 2px solid black;
+		
+	
+	}
+
+	.beef h3{
+		color: red;
+		border: 2px solid black;
+		width: 50px;
+		float: right;
+		margin-bottom: 70px;
+	}
+	.sushi h3{
+		color: yellow;
+	}
+	</style>
+</head>
+<body>
+<h1 align="center">Our Menu</h1>
+<div class="chicken">
+	<h3>Chicken</h3>
+<p>
+The chicken is a type of domesticated fowl, a subspecies of the red junglefowl. They are one of the most common and widespread domestic animals, with a total population of 23.7 billion as of 2018, up from more than 19 billion in 2011. There are more chickens in the world than any other bird or domesticated fowl	
+</p>
+</div>
+
+<div class="beef">
+	<h3>
+		Beef
+	</h3>
+	<p>Beef is the culinary name for meat from cattle, particularly skeletal muscle. Humans have been eating beef since prehistoric times. Beef is a source of high-quality protein and nutrients Rich in high-quality protein, beef may help maintain and grow muscle mass. may reduce improve.</p>
+</div>
+
+<div class="sushi">
+	<h3>Sushi</h3>
+	<p>
+		Sushi originates in a Southeast Asian dish, known as narezushi Vinegar began to be added to the preparation of narezushi in the Muromachi period (1336–1573) for the sake of enhancing both taste and preservation. In addition to increasing the sourness of the rice to be shortened and eventually abandoned.
+	</p>
+	
+</div>
+</body>
+</html>
